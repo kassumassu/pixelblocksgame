@@ -1,7 +1,7 @@
-alert("Kehittäjät: Henkka ja Kasper!"); 
+alert("Developers: Henkka and Kasper!"); 
 function a() {
-    alert("Me myös tehdään joskus youtube kanava nimeltä Pixel Blocks Game");
+    alert("We also have a youtube channel named Pixel Blocks!");
 } 
 function b() {
-    alert("Muista tilata myös meidän youtube kanava kun se on tehty!")
+    alert("Remenber to subscribe our youtube channel!")
 }
